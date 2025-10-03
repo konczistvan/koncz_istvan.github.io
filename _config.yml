@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Koncz István Róbert / Site Title"
+title                    : "Koncz István Róbert / Student"
 title_separator          : "-"
 name                     : &name "Koncz István Róbert" # Update this with your name, this is the default if not overridden by a page
 description              : &description "Koncz István Róbert's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
