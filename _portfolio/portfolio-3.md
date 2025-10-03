@@ -1,6 +1,6 @@
 ---
 title: "Campus study break"
-excerpt: "Reviewing materials outdoors on campus while enjoying the fresh air.<br/><img src='/images/portfolio3.png'>"
+excerpt: "Reviewing materials outdoors on campus while enjoying the fresh air.<br/><img src='../images/portfolio3.png'>"
 collection: portfolio
 ---
 

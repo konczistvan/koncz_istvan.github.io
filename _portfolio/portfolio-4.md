@@ -1,6 +1,6 @@
 ---
 title: "Exam preparation"
-excerpt: "Focused revision session before the upcoming university exams.<br/><img src='/images/portfolio4.png'>"
+excerpt: "Focused revision session before the upcoming university exams.<br/><img src='../images/portfolio4.png'>"
 collection: portfolio
 ---
 
