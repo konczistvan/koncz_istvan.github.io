@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Koncz István Róbert / Site Title"
 title_separator          : "-"
 name                     : &name "Koncz István Róbert" # Update this with your name, this is the default if not overridden by a page
@@ -27,9 +27,9 @@ author:
   avatar           : "profile.png"
   name             : "Koncz István Róbert" # Update this with your name, this is the default if not overridden by a page
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a 29-year-old university student currently in my third year of studying Computer Science. Before this, I earned a degree in Biotechnology Engineering, which gave me a strong foundation in analytical thinking and problem-solving. Combining my background in biotechnology with my passion for technology, I am now focusing on developing my skills in software development and IT."
+  location         : "Târgu Mureș, Romania"
+  employer         : "Freelance"
   uri              : # URL
   email            : "koncz.istvan.r@gmail.com" 
 
@@ -138,7 +138,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : isti.koncz
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
@@ -219,18 +219,10 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
