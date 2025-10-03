@@ -1,6 +1,6 @@
 ---
 title: "Lecture hall notes"
-excerpt: "Taking notes during an inspiring lecture on new technologies.<br/><img src='/images/portfolio2.png'>"
+excerpt: "Taking notes during an inspiring lecture on new technologies.<br/><img src='../images/portfolio2.png'>"
 collection: portfolio
 ---
 
